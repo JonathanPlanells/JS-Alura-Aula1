@@ -1,4 +1,4 @@
-// USO DE WHILE 
+// USO DE WHILE (REPITA MIENTRAS)
 
 const ciudadesDisponibles = new Array("Bogotá", "Lima", "Santiago", "Montevideo", "Quito");
 const precioCiudades = new Array(500, 400, 380 , 200, 100);
