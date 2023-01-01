@@ -20,7 +20,7 @@ if(condicion){
  */
 
 
-const ciudadDesitno = "Lima";
+const ciudadDesitno = "Madrid";
 const ciudadesDisponibles = new Array("Bogotá", "Lima", "Santiago", "Montevideo");
 let edadPasajero = 16;
 let estaAcompañado = false;
